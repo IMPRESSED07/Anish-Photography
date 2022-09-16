@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.navbar{
+    display: flex;
+}
+
+.navlist li {
+    display: inline;
+}
+
+.navbar li{
+    display: block;
+}
